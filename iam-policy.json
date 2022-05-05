@@ -10,7 +10,7 @@
         "lambda:UpdateFunctionConfiguration",
         "lambda:PutFunctionConcurrency",
         "lambda:DeleteFunctionConcurrency",
-        "lambda:PublishVersion"
+        "lambda:PublishVersion1"
     ],
     "Resource": "arn:aws:lambda:us-east-1:your-aws-account-number:function:your-lambda-function-name"
 }
